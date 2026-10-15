@@ -68,3 +68,12 @@
 질문, 답변, 채택과 유료 멤버십을 갖춘 개발 학습자용 Q&A 커뮤니티
 
 [Repository](https://github.com/kbsjh8870/dev_com) | [Service](https://dev-community-neon.vercel.app)
+
+<br>
+
+### Shadow Route | 그림자를 고려한 보행자 경로 안내 앱
+`2025.04 ~ 2025.06` `대학교 캡스톤 디자인` `개선 진행 중`
+
+태양 위치와 건물 높이로 그림자 영역을 계산해, 그늘이 많은 보행 경로를 추천하는 지도 앱
+
+[Repository](https://github.com/kbsjh8870/capstone)
