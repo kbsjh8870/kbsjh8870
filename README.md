@@ -31,6 +31,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Test, Etc**<br>
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
@@ -42,8 +43,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kbsjh8870&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbsjh8870&layout=compact&hide_border=true&langs_count=6" height="165" alt="top langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kbsjh8870&theme=github" height="165" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kbsjh8870&theme=github" height="165" alt="top langs" />
 
 <img src="https://streak-stats.demolab.com?user=kbsjh8870&hide_border=true" alt="streak" />
 
